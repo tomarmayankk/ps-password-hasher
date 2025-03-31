@@ -1,0 +1,22 @@
+{
+  "name": "ps-password-hasher",
+  "version": "1.0.0",
+  "description": "An npm package to hash your password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomarmayankk/ps-password-hasher"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mayank Tomar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tomarmayankk/ps-password-hasher/issues"
+  },
+  "type": "commonjs"
+}
