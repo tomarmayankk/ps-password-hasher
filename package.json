@@ -1,6 +1,6 @@
 {
   "name": "ps-password-hasher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package to hash your password",
   "main": "index.js",
   "scripts": {
