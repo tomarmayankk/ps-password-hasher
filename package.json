@@ -11,7 +11,17 @@
     "url": "https://github.com/tomarmayankk/ps-password-hasher"
   },
   "keywords": [
-    "npm"
+    "npm",
+    "password",
+    "hash",
+    "bcrypt",
+    "password-hashing",
+    "security",
+    "authentication",
+    "encryption",
+    "crypto",
+    "hashing-algorithm",
+    "secure-password"
   ],
   "author": "Mayank Tomar",
   "license": "Apache-2.0",
